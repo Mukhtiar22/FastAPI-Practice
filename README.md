@@ -1,4 +1,4 @@
-# Patient Management System API
+# Patient Management System by using FastAPI
 
 ## Description
 
