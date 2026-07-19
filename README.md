@@ -4,7 +4,7 @@
 
 A FastAPI-based API for managing patient records. This API allows users to view patient information, including personal details, BMI calculations, and health verdicts based on BMI categories.
 
-## Features
+## Feature
 
 - Retrieve all patient records
 - Retrieve specific patient details by ID
