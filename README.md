@@ -132,7 +132,6 @@ Patient data is stored in `patient.json` with the following structure:
 ## Dependencies
 
 - FastAPI
-- Pydantic
 - Uvicorn (for running the server)
 
 See `requirements.txt` for full list.
